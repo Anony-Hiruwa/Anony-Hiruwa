@@ -4,37 +4,28 @@
 
 - 🧑‍🏫 I’m currently working **very hard.**
 
-- 📖 I’m currently learning **Typescript** and **HTML**
+- 📖 I’m currently learning **Javascript** and **Python**
 
 - 🕵️ I’m looking to collaborate with other **content creators.**
 
 - 👨‍💻 All of my projects are available at
-                   **[https://toxic-devil.github=ropo-official](https://github.com/TOXIC-DEVIL?tab=repositories)**
+                   **[https://Dark-Knight-Hiruwa.github=T-REX OFFICIAL](https://github.com/Dark-Knight-Hiruwa?tab=repositories)**
 
-- 💬 Ask me about: **Bots** and **Coding**
 
-- 🦜 Join in Our Groups: My **[Official Group](https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1)** and **[Bot Group](https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm)** On WhatsApp.
-
-- 📫 How to reach me: 
-
-- 🤣 Fun Fact: My **smartness** 💡 lies in my **laziness** 😴
-
-- 🆓 Don't Forget To **[Follow Me](https://github.com/TOXIC-DEVIL)**
-
-<p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br> 
+<p align="center"> <a href="REX HIRUWA"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Dark-Knight-Hiruwa&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="REX HIRUWA" /></a> </p><br> 
 
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-DEVIL&show_icons=true&theme=nightowl" alt="TOXIC-DEVIL" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dark-Knight-Hiruwa&show_icons=true&theme=nightowl" alt="REX HIRUWA" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOXIC-DEVIL&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TOXIC-DEVIL"/></p></a><br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Knight-Hiruwa&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="REX HIRUWA"/></p></a><br> 
 
 ##
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=TOXIC-DEVIL)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Dark-Knight-Hiruwa)
 
 </details>
 
@@ -43,7 +34,7 @@
 <details>
     <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/TOXIC-DEVIL?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/Dark-Knight-Hiruwa?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia/Colombo)
 
 </details>
 
@@ -52,16 +43,16 @@
 ## Another Pin Project
 <details>
   <summary>My New WhatsApp Project</summary>
-   <a href="https://github.com/TOXIC-DEVIL/WhatsAlexa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAlexa">
+   <a href="https://github.com/Dark-Knight-Hiruwa/T-REX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Knight-Hiruwa&repo=T-REX">
   </a>
 </details>
 
   <!--
 <details>
   <summary>My New WhatsApp Bot Project</summary>
-   <a href="https://github.com/TOXIC-DEVIL/Rhizo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Rhizo">
+   <a href="https://go">
+    <img src="https://gzo">
   </a>
   </details>
   --!>
